@@ -95,6 +95,11 @@ Always provide --file for input CSV and --column for column-specific commands.
 Column names must exactly match the headers in your CSV.
 Numeric columns are automatically parsed for statistics.
 
+## Demo Video
+
+Watch the project demo here:
+(https://drive.google.com/file/d/1V3-L4gAMdIc0V4M7tAGdZ1-QhAboWnPW/view?usp=sharing)
+
 # Mohammad-Waheaz-SIDDIQI
 Week-1 Data-toolkit CLI project
  cf510354f07e2c1a077ea6c841077d1956fd513d
