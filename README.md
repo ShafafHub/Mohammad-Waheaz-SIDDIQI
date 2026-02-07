@@ -1,3 +1,4 @@
+ HEAD
 
 # Data-Toolkit CLI
 A lightweight command-line interface (CLI) for working with CSV files, built using Node.js. This tool allwos you to read CSV files, compute basic statistics, filter and sort rows, and export results to a new CSV file.
@@ -93,3 +94,7 @@ File paths for --file and --out are relative to the current terminal location.
 Always provide --file for input CSV and --column for column-specific commands.
 Column names must exactly match the headers in your CSV.
 Numeric columns are automatically parsed for statistics.
+
+# Mohammad-Waheaz-SIDDIQI
+Week-1 Data-toolkit CLI project
+ cf510354f07e2c1a077ea6c841077d1956fd513d
